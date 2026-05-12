@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/anukulbanerji/Downloads/rnj-site/.claude)"
+    ]
+  }
+}
